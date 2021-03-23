@@ -4,6 +4,9 @@ DORM is a shitty new alphabet I made in 2 hours somehow
 ### What does it do?
 Something
 
+### What's with the name?
+It stands for DOOM README.
+
 ### Why did you make it?
 Long story (*psst there's a comment in index.html*)
 
